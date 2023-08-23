@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801554956979",
+    "project_id": "login-speakup",
+    "storage_bucket": "login-speakup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801554956979:android:f72963e4ebcd65e47c66c6",
+        "android_client_info": {
+          "package_name": "com.example.speakup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801554956979-h7jia75k0ml24edsnvc2i4gp1nbpdmak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzeOLqYvSwb5iOQtoaOOO1_suzecl9yjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801554956979-h7jia75k0ml24edsnvc2i4gp1nbpdmak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
